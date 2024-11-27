@@ -1,0 +1,2 @@
+# maharajacollege-student-
+INSPAIR
