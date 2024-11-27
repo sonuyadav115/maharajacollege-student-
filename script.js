@@ -1,0 +1,1 @@
+// No need for JavaScript in this version, everything is handled by CSS.
